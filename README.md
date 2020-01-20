@@ -1,5 +1,4 @@
 ---
-Assemblée Virtuelle
 Parcours : Entreprendre durablement
 Contributeur : Pierre Bouvier-Muller (V1)
 Module : Readme
