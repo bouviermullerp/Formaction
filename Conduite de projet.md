@@ -70,7 +70,7 @@ Chaque projet est différent et les étapes évolueront en fonction de son avanc
 
 Par où commencer ?
 
-### La vision
+### La vision, le design
 On commence par le rêve, l'observation. Qu'est ce que je souhaite réaliser ? Quel est mon objectif, ma vision, mon cahier des charges.
 Si cette première étape est une étape de création, ce n'est pas une étape de réalisation.
 En fonction du projet, cette étape peut durer plus ou moins longtemps, il s'agit en tout cas de ne pas rester coincé dans le rêve et s'autoriser à avancer, à apprendre en marchant.
@@ -111,6 +111,8 @@ Et oui, on peut vivre sa journée comme un projet itératif :
 - en sortant du boulot, c'est le moment de faire une petite rétrosepctive sur ce qui s'y est passé, ce qu'on a appris, vécu, ce qui nous invite à célébrer nos apprentissages par un moment convivial et familial.
 
 ## Pour aller plus loin
-[SO/CEI 15504 est une norme ISO qui fournit un cadre pour l'évaluation des processus d'une organisation.](https://fr.wikipedia.org/wiki/ISO/CEI_15504)
+[SO/CEI 15504 : une norme pour l'évaluation des processus d'une organisation.](https://fr.wikipedia.org/wiki/ISO/CEI_15504)
+[Le design éthique](https://fr.wikipedia.org/wiki/Dieter_Rams#Les_dix_principes_du_%C2%AB_bon_design_%C2%BB_selon_Dieter_Rams)
+[L'outil convivial](https://fr.wikipedia.org/wiki/Outil_convivial)
 
 ## Question, remarques ?
