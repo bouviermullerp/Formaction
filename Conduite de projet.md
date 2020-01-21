@@ -10,7 +10,7 @@ Version : 1
 Ce module prend son sens après avoir suivi le module VUCA
 
 ## Introduction
-Entreprendre durablement, c'est assurer la pérennité de son entreprise (au sens projet) en maintenant la capacité de renouvellement des facteurs de production (naturel et sociaux).
+Nous partirons de l'hyposthèse qu'entreprendre durablement, c'est assurer la pérennité de son entreprise (au sens projet) en maintenant la capacité de renouvellement des facteurs de production (naturel et sociaux).
 
 ### Valeurs
 En ce qui concerne le caractère social du projet éthique, on peut probablement se réfèrer aux valeurs partagées par le Project Management Institute (PMI) ;
@@ -71,17 +71,34 @@ Chaque projet est différent et les étapes évolueront en fonction de son avanc
 Par où commencer ?
 
 ### La vision, le design
-On commence par le rêve, l'observation. Qu'est ce que je souhaite réaliser ? Quel est mon objectif, ma vision, mon cahier des charges.
+La première étape est une étape d'observation, de rêve, de béhatitude. 
+Qu'est ce que je souhaite réaliser ?  C'est l'occasion de s'interroger sur son objectif, la vision, le cahier des charges.
+
 Si cette première étape est une étape de création, ce n'est pas une étape de réalisation.
 En fonction du projet, cette étape peut durer plus ou moins longtemps, il s'agit en tout cas de ne pas rester coincé dans le rêve et s'autoriser à avancer, à apprendre en marchant.
+C'est pourquoi, il est recommandé de donner au préalable une date de fin à cette étape et de passer à la planification sans que tout le cahier des charges soit parfait.
 Plus le projet est grand, plus il est nécessaire que le rêve soit flou et vague pour ne pas se perdre dans les détails.
+La clef, c'est l'expérimentation.
 
 ### La planification
-Quand le projet débute, c'est la phase la plus compliqué car la plus incertaine. Il est nécessaire d'attendre quelques itérations (entre 3 et 5) pour voir la planification s'ajustée et s'affiner en fonction :
+Quand le projet débute, c'est la phase la plus compliqué car la plus incertaine. Il est nécessaire d'attendre quelques itérations (entre 3 et 5) pour voir la planification (globale) s'ajuster et s'affiner en fonction :
 - de la meilleure définition du cahier des charges,
 - de la vitesse de livraison de l'équipe.
 
-C'est aussi l'étape où l'on décrit les facteurs clefs de succès, les indicateurs e performance et la manière dont ils seront mesurés.
+Fonctionner en itération, s'est diviser le cahier des charges, le rêve, la vision en petites parties afin de se donner un rythme, une cadence. La durée des itérations pour un projet varie de la semaine (minimum) au mois (maximum).
+
+**Comment faire pour prioriser ?**
+Quand on a morceler la vision en petites parties, comment savoir laquelle travailler en premier ?
+#### Les prérequis
+Une première étape consiste à passer chaque partie en revue et à y définir les prérequis (comme vous avez pu déjà le faire auparavant)
+
+#### Coût / Bénéfice
+Une manière complémentaire de prioriser la tâche est d'effectuer un ratio coût/bénéfice pour chacune d'entre elles.
+On obtiendra ainsi un indice qui permettra de les trier par ordre d'importance.
+
+Par exemple, dans une entreprise qui développe des logiciels, on déterminera (de manière arbitraire et collective) pour chaque fonctionnalité, la difficulté nécessaire pour la développer et le chef de produit indiquera la valeur ajoutée pour les clients.
+
+C'est aussi l'étape où l'on décrit les facteurs clefs de succès, les indicateurs de performance et la manière dont ils seront mesurés.
 On pourra s'inspirer des [KPI](https://en.wikipedia.org/wiki/Performance_indicator) et des [OKR](https://en.wikipedia.org/wiki/OKR).
 
 ### La réalisation
