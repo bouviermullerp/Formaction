@@ -39,12 +39,12 @@ Making positive changes with a Solutions Focus is simple:
 
 ### Le déroulé
 
-1 - Le client décrit la situation idéale dans laquelle il souhaiterait se trouver.
+1. Le client décrit la situation idéale dans laquelle il souhaiterait se trouver.
 Pas de question ni d'interraction avec le groupe
-2 - Le groupe pose des questions et clarifie la solution uniquement. Comment serait le futur idéal ?
-3 - Le client précise l'écart qui le sépare de son objectif sur une échelle de 1 à 10, puis il explique les raisons pour lesquelles il a ce sentiment.
-4 - Le client décrit à quoi ressemblerait la situation dans le cas ou le curseur serait un cran au dessus (+ 1)
-5 - Le groupe échange sur les raisons pour lesquelles le client a toutes les qualités pour réussir.
+2. Le groupe pose des questions et clarifie la solution uniquement. Comment serait le futur idéal ?
+3. Le client précise l'écart qui le sépare de son objectif sur une échelle de 1 à 10, puis il explique les raisons pour lesquelles il a ce sentiment.
+4. Le client décrit à quoi ressemblerait la situation dans le cas ou le curseur serait un cran au dessus (+ 1)
+5. Le groupe échange sur les raisons pour lesquelles le client a toutes les qualités pour réussir.
 
 ## Pourquoi et comment ça fonctionne ?
 S : on se focalise sur les Solutions. Ce qui est important est ce qui est souhaité, non pas les problèmes;
