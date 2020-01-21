@@ -18,15 +18,15 @@ Composition : 5 à 8 personnes maximum avec
 - 1 facilitateur - garant du temps.
 - des consultants
 
-1- exposé d’un problème ou d’une préoccupation par l’intéressé.e (5 min)
-	Pas de questions. Garder les 5 min. Des idées peuvent survenir avant la fin
-2 - clarification de la situation par les autres membres par des questions (10 min).
-	Pas de jugement, pas de conseil.
-3 - l’intéressé.e précise ce qu’il.elle attend du groupe, son objectif (5 min)
-	formuler de manière positive (5 min sans questions, garder les 5 min même si c’est apparemment de trop. Des idées peuvent survenir avant la fin)
-4 - exploration : les autres partagent leurs impressions, suggestions… l’intéressé.e ne répond pas mais prend des notes (20 min)
-5 - temps perso : synthèse individuelle des apprentissages et chacun dresse une idée de plan d’action (5 min)
-6 - Partage des apprentissages et des idées de plan d’action et synthèse (15 min)
+1. exposé d’un problème ou d’une préoccupation par l’intéressé.e (5 min)
+Pas de questions. Garder les 5 min. Des idées peuvent survenir avant la fin
+2. clarification de la situation par les autres membres par des questions (10 min).
+Pas de jugement, pas de conseil.
+3. l’intéressé.e précise ce qu’il.elle attend du groupe, son objectif (5 min)
+formuler de manière positive (5 min sans questions, garder les 5 min même si c’est apparemment de trop. Des idées peuvent survenir avant la fin)
+4. exploration : les autres partagent leurs impressions, suggestions… l’intéressé.e ne répond pas mais prend des notes (20 min)
+5. temps perso : synthèse individuelle des apprentissages et chacun dresse une idée de plan d’action (5 min)
+6. partage des apprentissages et des idées de plan d’action et synthèse (15 min)
 
 
 ## Méthode Solution-Focus
