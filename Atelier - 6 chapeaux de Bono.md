@@ -1,4 +1,10 @@
-Les chapeaux de Bono
+---
+Parcours : Itérations et conduite de projet
+Atelier : Les 6 chapeaux de Bono
+Contributeur : Pierre Bouvier-Muller (V1)
+Crédit : CC-BY
+Version : 1
+---
 
 ## pré-requis
 
