@@ -110,4 +110,7 @@ Et oui, on peut vivre sa journée comme un projet itératif :
 - la journée se déroule avec sa réalisation
 - en sortant du boulot, c'est le moment de faire une petite rétrosepctive sur ce qui s'y est passé, ce qu'on a appris, vécu, ce qui nous invite à célébrer nos apprentissages par un moment convivial et familial.
 
+## Pour aller plus loin
+[SO/CEI 15504 est une norme ISO qui fournit un cadre pour l'évaluation des processus d'une organisation.](https://fr.wikipedia.org/wiki/ISO/CEI_15504)
+
 ## Question, remarques ?
