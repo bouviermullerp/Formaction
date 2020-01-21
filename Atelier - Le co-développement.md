@@ -47,9 +47,9 @@ Pas de question ni d'interraction avec le groupe
 5. Le groupe échange sur les raisons pour lesquelles le client a toutes les qualités pour réussir.
 
 ## Pourquoi et comment ça fonctionne ?
-S : on se focalise sur les Solutions. Ce qui est important est ce qui est souhaité, non pas les problèmes;
-I : les solutions sont dans les Interactions. *Pour aller plus loin, lire les travaux de Milton Erickson*;
-M : utiliser ce qui est déjà là Maintenant. *Pour aller plus loin, lire les travaux sur l'effectuation, école de Palo Alto*;
-P : développer les Possibilités, en explorant le « comment » plutôt que le « pourquoi ». *Pour aller plus loin, lire les travaux sur la psychologie positive*;
-L : que le Language soit simple et concret;
-E : choisir des outils appropriés à son Environnement.
+- S : on se focalise sur les Solutions. Ce qui est important est ce qui est souhaité, non pas les problèmes;
+- I : les solutions sont dans les Interactions. *Pour aller plus loin, lire les travaux de Milton Erickson*;
+- M : utiliser ce qui est déjà là Maintenant. *Pour aller plus loin, lire les travaux sur l'effectuation, école de Palo Alto*;
+- P : développer les Possibilités, en explorant le « comment » plutôt que le « pourquoi ». *Pour aller plus loin, lire les travaux sur la psychologie positive*;
+- L : que le Language soit simple et concret;
+- E : choisir des outils appropriés à son Environnement.
