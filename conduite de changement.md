@@ -30,7 +30,7 @@ Cette vision doit être écrite, partagée, lisible.
 
 # D'où l'on part, quel est le fossé ?
 En anglais, on fait souvent référence au "gap analysis". D'accord nous avons une vision, mais quel est notre état actuel.
-Dans une bonne conduite du changement, on commencera par un audit.
+Dans une bonne conduite du changement, on commencera par un audit qui prend souvent en compte la maturité de l'organisation.
 Si la changement concerne la culture d'entreprise (pour qu'elle gagne en éthique par exemple), alors on utilisera un outil comme [la spirale dynamique](http://www.spiraledynamique.com/)
 
 # La conduite
