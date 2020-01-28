@@ -26,6 +26,13 @@ Attention, certains modules font référence à des pratiques qui nécessitent d
 Les utiliser seulement après les avoir lu pourrait entrainer un effet *[canada dry](https://marseille.latribune.fr/economie/2018-02-20/l-italian-sounding-ou-l-effet-canada-dry-769240.html)*, ça ressemble à du coaching et à une entreprise éthique, mais non ! (cf module greenwashing :) ).
 Faire appel à une personne externe, c'est permettre de prendre du recul, éventuellement de superviser. C'est aussi ça l'éthique :)
 
+## Taxonomie
+Les modules sont décomposées en :
+- Réflexion. Ce sont des modules conceptuels et méta qui proposent des considérations, des pensées. (On est dans le pourquoi)
+- Méthode. Ce sont des procédures. (On est dans le comment)
+- Atelier. Ce sont des pratiques de conduite de réunion et d'intelligence collective. (On est dans l'opérationnel, le quoi)
+
+
 ## Bibliographie
 - [Alice Casaucau. Le management juste, un outil de prévention du burnout et de promotion desétats positifs au travail.](https://tel.archives-ouvertes.fr/tel-01338269/document)
 Psychologie. Université Nice Sophia Antipolis, 2016. Français. NNT:2016NICE2006. tel-01338269.
