@@ -15,7 +15,7 @@ Nous veillerons à ce que tous ces modules soient documentés au mieux, de mani�
 
 Ces modules n'ont pas vocation a être suivi de façon linéaire, mais plutôt à la manière d'un livre dont vous êtes le héros, de manière arborescente. 
 Ils sont décomposés de la sorte afin d'être interopérables avec d'autres formations, contenus et ateliers.
-Ils sont également collaboratifs et vous trouverez les modalités de contribution, de partage et de diffusion dans le fichier [readme](readme.md).
+Ils sont également collaboratifs et vous trouverez les modalités de contribution, de partage et de diffusion dans le fichier [readme](README.md).
 
 Si toutefois, vous ne savez pas par où commencer, le module VUCA est une belle porte d'entrée.
 
