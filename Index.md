@@ -27,18 +27,18 @@ Les utiliser seulement après les avoir lu pourrait entrainer un effet *[canada 
 Faire appel à une personne externe, c'est permettre de prendre du recul, éventuellement de superviser. C'est aussi ça l'éthique :)
 
 ## Bibliographie
-[Alice Casaucau. Le management juste, un outil de prévention du burnout et de promotion desétats positifs au travail.](https://tel.archives-ouvertes.fr/tel-01338269/document)
+- [Alice Casaucau. Le management juste, un outil de prévention du burnout et de promotion desétats positifs au travail.](https://tel.archives-ouvertes.fr/tel-01338269/document)
 Psychologie. Université Nice Sophia Antipolis, 2016. Français. NNT:2016NICE2006. tel-01338269.
-[Elise Marcandella. Management responsable de l’innovation - Concept, méthodologie, perspectives.](https://hal.archives-ouvertes.fr/hal-01149772/document)
+- [Elise Marcandella. Management responsable de l’innovation - Concept, méthodologie, perspectives.](https://hal.archives-ouvertes.fr/hal-01149772/document)
 QUALITA’2015, Mar 2015, Nancy, France. hal-01149772
-[Thierry Nadisic. La justice organisationnelle invisible  et le management de l’injustice  par l’encadrement intermédiaire](https://www.agrh.fr/assets/actes/2005nadisic0107.pdf)
+- [Thierry Nadisic. La justice organisationnelle invisible  et le management de l’injustice  par l’encadrement intermédiaire](https://www.agrh.fr/assets/actes/2005nadisic0107.pdf)
 
 ## Mots-clefs
 Ingénierie de la concertation, entreprendre soutenablement, justice organisationnelle, [développement durable](https://fr.wikipedia.org/wiki/D%C3%A9veloppement_durable), innovation responsable, [management équitable](https://fr.wikipedia.org/wiki/Management_%C3%A9quitable), [management participatif](https://fr.wikipedia.org/wiki/Management_participatif), [éducation populaire](https://fr.wikipedia.org/wiki/%C3%89ducation_populaire)
 
 ## Inspirations
-[Université du nous](http://universite-du-nous.org/)
-[Animacoop](http://animacoop.net/)
+- [Université du nous](http://universite-du-nous.org/)
+- [Animacoop](http://animacoop.net/)
 
 ## Historique
 
