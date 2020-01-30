@@ -39,4 +39,10 @@ En ce qui concerne l'argent, on a aussi eu tendance à cacher pour la plupart no
 Si votre cadre de confort est bien installé, alors je vous suggère de ne plus rendre ce sujet tabou comme dans la plupart des sociétés, mais à en faire une affaire d'équipe.
 
 ## Opérationnellement
-Afin d'installer un climat transparent, la seule bonne pratique que je peux recommander à ce jour concerne la transparence de l'information, qui prend toute sa place dans [la conduite de réunion](Conduite de réunion.md)
+Il n'y a pas vraiment de recette afin de faire prevue de transparence, il s'agira de placer son attention à :
+- Rendre lisible l'information, qu'elle soit écrite avec un vocabulaire accessible mais pas simpliste.
+- Rendre visible l'information, qu'elle soit stockée à un endroit où il est simple, commode et naturel de la stocker, sans qu'elle soit noyée dans d'autres informations (infobésite).
+
+Afin de favoriser un climat de transparence, 2 pistes :
+- [la conduite de réunion](Conduite de réunion.md), qui quand elle est bien faite, participe au confort, à la confiance et à la bonne circulation et la transmission de l'information.
+- [le code social](https://codesocial.org/), qui permet de mettre en lumière des parties, des éléments de la structure qui ne semble pas naturel et pour autant si précieux.
