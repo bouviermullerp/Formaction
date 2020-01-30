@@ -1,7 +1,7 @@
 ---
 Parcours : L'entreprise éthique
 Contributeur : Pierre Bouvier-Muller (V1)
-Module : Transparence
+Module : Transparence (et valeurs)
 Crédit : CC-BY
 Version : 1
 ---
@@ -11,7 +11,7 @@ Les propositions formulées ici ne sont pas à prendre au pied de la lettre, mai
 
 Pratiquer la transparence (comme le feedback) peut être synonyme d'inconfort, de décalage. On veillera donc à ce que le climat de confiance et de confort soit bien en place et que la maturité de l'équipe soit favorable à changer ses pratiques pour éviter les situations trop chaotiques.
 
-## L'ambiguité.
+## L'ambiguité
 La composante du monde ambigüe dans lequel évoluons est probablement le fruit de la compétition qui est un des piliers de notre société, car l'ambiguité est un terreau propice à l'émergence d'un système plus compétitif que coopératif.
 
 ## Les valeurs
@@ -20,19 +20,21 @@ En effet, la première ambiguité auquel nous faisons face est la notion même d
 Qu'est ce qui a de la valeur.
 Aujourd'hui, on sait la mesurer de manière pragmatique et efficace quand elle est économique.
 Mais quand il s'agit de valeurs sociales où écologiques, c'est un nouveau challenge.
-Il existe des programmes de recherche action qui interroge sur ces concepts, comme celui de {la comptabilité en triple capital](https://coopdescommuns.org/fr/compta-triple-capital/)
+Il existe des programmes de recherche action qui interroge sur ces concepts, comme celui de [la comptabilité en triple capital](https://coopdescommuns.org/fr/compta-triple-capital/)
 
-Car oui, il existe d'autres formes de valeur que l'argent.
-Le premier est la matière, les biens matériels.
-Le second, les échanges financiers.
-Les trois, les sentiments, la connaissance et la confiance.
+Car oui, il existe d'autres formes de valeur que l'argent, la matière par exemple, les biens matériels, physiques. Mais aussi les échanges financiers, les sentiments, la connaissance, la confiance et surement bien d'autres.
 
-Notre approche rationnelle à tenter de monétiser 4 des flux en faveur du second.
+Notre approche rationnelle à tenter de valoriser tous les flux en faveur du second (monétiser).
 Cependant, les 3 derniers ne sont pas facilement quantifiable (quelle échelle pourrait on prendre pour la mesurer ?) et ils sont également abondants (contrairement à la matière, on peut avoir de la confiance, du bonheur à *revendre*).
+Comment donc valoriser un élément abondant (la connaissance) avec quelque chose qui ne l'est pas ?
 
 Source : [Duc Ha Duong - Les 5 flux, une approche systémique des échanges humains](https://medium.com/l-avenir-appartient/les-5-flux-une-approche-syst%C3%A9mique-des-%C3%A9changes-humains-f8e5256147d5)
 
-LA première des pistes n'a donc pas vraiment de conseil opérationnel, si ce n'est de s'interroger sur la valeur que l'on produit, que l'on partage, que l'on vend afin de prendre les bonnes décisions.
+La première des pistes n'a donc pas vraiment de conseil opérationnel, si ce n'est de s'interroger sur la valeur que l'on produit, que l'on partage, que l'on vend afin de prendre les bonnes décisions.
+
+### Pour aller plus loin
+- [L'économie de la contributon](https://contribution.ch/EC1/)
+- [L'économie de la connaissance](https://fr.wikipedia.org/wiki/%C3%89conomie_du_savoir)
 
 ## L'argent
 En ce qui concerne l'argent, on a aussi eu tendance à cacher pour la plupart notre capital financier, de peur de se le faire voler, de peur d'être mal vu, d'être jugé.
