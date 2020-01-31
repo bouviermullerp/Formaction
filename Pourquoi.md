@@ -109,24 +109,24 @@ Ce cours propose des méthodes, des réflexions, des pistes d'amélioration pour
 [Bienvenue](Index.md)
 
 **Ateliers**
-[6 chapeaux de Bono](Atelier - 6 chapeaux de Bono.md)
-[La décision par consentement](Décision par consentement.md)
-[La rétrospective](Atelier - La retrospective.md)
-[Le co-développement](Atelier - Le co-développement.md)
-[Le feedback](Atelier - feedback.md)
-[Remember the futur](Atelier - remember the futur.md)
-[Résoudre un conflit](Atelier - résoudre un conflit.md)
+- [6 chapeaux de Bono](Atelier - 6 chapeaux de Bono.md)
+- [La décision par consentement](Décision par consentement.md)
+- [La rétrospective](Atelier - La retrospective.md)
+- [Le co-développement](Atelier - Le co-développement.md)
+- [Le feedback](Atelier - feedback.md)
+- [Remember the futur](Atelier - remember the futur.md)
+- [Résoudre un conflit](Atelier - résoudre un conflit.md)
 
 **Méthodes**
-[Conduite de changement](conduite de changement.md)
-[Conduite de projet](Conduite de projet.md)
-[Conduite de réunion](Conduite de réunion.md)
-[Confiance et confort](Confiance et confort.md)
-[Pourquoi ?](Pourquoi.md)
+- [Conduite de changement](conduite de changement.md)
+- [Conduite de projet](Conduite de projet.md)
+- [Conduite de réunion](Conduite de réunion.md)
+- [Confiance et confort](Confiance et confort.md)
+- [Pourquoi ?](Pourquoi.md)
 
 **Réflexions**
-[Un monde VUCA](Reflexion - VUCA.md)
-[L'éthique](Reflexion - ethique.md)
-[Transparence et valeurs](transparence.md)
+- [Un monde VUCA](Reflexion - VUCA.md)
+- [L'éthique](Reflexion - ethique.md)
+- [Transparence et valeurs](transparence.md)
 
 [Readme](README.md)
