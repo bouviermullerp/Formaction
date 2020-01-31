@@ -34,7 +34,9 @@ Dans une bonne conduite du changement, on commencera par un audit qui prend souv
 Si la changement concerne la culture d'entreprise (pour qu'elle gagne en éthique par exemple), alors on utilisera un outil comme [la spirale dynamique](http://www.spiraledynamique.com/)
 
 # La conduite
-Enfin, la référénce pour la conduite du changement (qui reprend les étapes précédentes est [la matrice de Kotter](https://fr.wikipedia.org/wiki/John_Kotter)
+Historiquement, la référénce pour la conduite du changement qui reprend les étapes précédentes est [la matrice de Kotter](https://fr.wikipedia.org/wiki/John_Kotter)
 
-# Remarques, questions, échanges
+Telle qu'elle est écrite, elle correspond à des entreprises peu matures. Ceci dit, ses éléments sont intéressants à garder en tête et peuvent être source d'inspiration.
+
+Pour une conduite du changement plus douce, plus subtile et s'incrivant dans un paradigme éthique, nous recommandons [l'approche appriciative](https://ifai-appreciativeinquiry.com/ai/approche/)
 
