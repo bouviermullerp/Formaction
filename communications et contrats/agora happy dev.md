@@ -72,10 +72,10 @@ C'est une démarche empirique.
 
 Je pose ici mon intention d'accompagner le travail sur le fonctionnement des cellules, l'expression du besoin, le design de l'organisation de manière bénévole pendant 3 semaines. J
 e suis à l'écoute de vos ressentis et suggestions de bonification en rapport à cette décision.
-J'espère que ce travail permettra de mettre en lumière le travail "caché" de la facilitation et de la gouvernance dont Boris vient de faire mention à l'instant sur le chat :+1: 
+J'espère que ce travail permettra de mettre en lumière le travail "caché" de la facilitation et de la gouvernance dont Boris vient de faire mention à l'instant sur le chat.
 
 
 ## Conclusion
 J'espère que ce texte vous a apporté de la confiance et de la clarté, si ce n'est pas le cas j'espère qu'il a quand même suscité de la curiosité et apportera des réactions.
 
-Pouvez-vous s'il vous plait exprimer votre accord ou vos objections quant à ma proposition ?
+Pouvez-vous s'il vous plait exprimer vos réactions ou vos objections quant à mon intention ?
